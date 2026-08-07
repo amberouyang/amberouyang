@@ -1,4 +1,6 @@
-## Hi my name is Amber!
+## Hi, my name is Amber!
+CS student @ UC San Diego (B.S. Computer Science, Minor in Business). 
+I build tools at the intersection of security, AI, and full-stack development.
 
 <!--
 **amberouyang/amberouyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
