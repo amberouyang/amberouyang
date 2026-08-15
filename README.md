@@ -42,8 +42,8 @@ Computer science student @ UC San Diego (B.S. Computer Science, Minor in Busines
 
 ---
 
-### Reach Me
-📧 amberouyangg@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/amberouyang51015)
+### Contact Me
+📧  amberouyangg@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/amberouyang51015)
 
 <!--
 **amberouyang/amberouyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
