@@ -1,12 +1,11 @@
-## Hi, I'm Amber!
-
-Computer science student @ UC San Diego (B.S. Computer Science, Minor in Business, June 2026). I build tools at the intersection of security, AI, and full-stack development.
+### Software Engineer & CS @ UC San Diego (Minor in Business)
+I build full-stack products, client-side performance architectures, and secure agentic AI pipelines.
 
 **Relevant Coursework:** Design & Analysis of Algorithms · Advanced Data Structures · Software Engineering · Database System Principles · Operating Systems Principles · Computer Architecture
 
 ---
 
-### Languages
+### Languages & Web Standards
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
