@@ -38,6 +38,7 @@ I build full-stack products, client-side performance architectures, and secure a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-000000?style=for-the-badge&logo=github&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-0052CC?style=for-the-badge&logo=langchain&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
