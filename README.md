@@ -1,5 +1,5 @@
 ### Software Engineer & CS @ UC San Diego (Minor in Business)
-Full-stack engineer working on secure AI pipelines and interactive computer vision.
+Full-stack engineer building secure AI pipelines and polished, interactive apps for web, mobile, and desktop.
 
 **Relevant Coursework:** Design & Analysis of Algorithms · Advanced Data Structures · Software Engineering · Database System Principles · Operating Systems Principles · Computer Architecture
 
