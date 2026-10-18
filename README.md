@@ -1,5 +1,5 @@
 ### Software Engineer & CS @ UC San Diego (Minor in Business)
-I build full-stack products, client-side performance architectures, and secure agentic AI pipelines.
+Full-stack engineer working on secure AI pipelines and interactive computer vision.
 
 **Relevant Coursework:** Design & Analysis of Algorithms · Advanced Data Structures · Software Engineering · Database System Principles · Operating Systems Principles · Computer Architecture
 
